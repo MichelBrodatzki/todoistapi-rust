@@ -1,11 +1,11 @@
-<h1 align="center">Todoist-RS</h1>
+<h1 align="center">TodoistAPI for Rust</h1>
 <p align="center">
 This <b>unofficial</b> library aims to provide access to Todoist's Developer APIs.<br/>
 Please be aware, that this library is <b>work in process</b> and not feature complete.
 </p>
 
 ## About The Project
-First of all, Todoist-RS is not created by, affiliated with, or supported by Doist.
+First of all, TodoistAPI for Rust is not created by, affiliated with, or supported by Doist.
 
 I've been using Todoist for quite some time and wanted to expand it with self-made tools. Before switching
 to Rust I've been using Python to write those tools. And while that has been working fine, I've been wanting
