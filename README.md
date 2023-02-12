@@ -4,6 +4,9 @@ This <b>unofficial</b> library aims to provide access to Todoist's Developer API
 Please be aware, that this library is <b>work in process</b> and not feature complete.
 </p>
 
+## Getting started
+TODO!
+
 ## Usage
 TODO!
 
@@ -11,9 +14,35 @@ TODO!
 Both APIs will be implemented separately, starting with the Sync API.
 
 ### Todoist Sync API
-  - More information coming soon!
+  - [ ] Authorization
+  - [ ] Sync
+  - [ ] Projects
+  - [ ] Sections
+  - [ ] Items
+  - [ ] Labels
+  - [ ] Notes (-> Comments)
+  - [ ] Uploads
+  - [ ] Filters
+  - [ ] Reminders
+  - [ ] Due dates
+  - [ ] User
+  - [ ] Items and sections archive
+  - [ ] Sharing
+  - [ ] Live notifications
+  - [ ] Business
+  - [ ] Activity
+  - [ ] Backups
+  - [ ] Emails
 ### Todoist REST API
-  - More information coming soon!
+  - [ ] Authorization
+  - [ ] Projects
+  - [ ] Sections
+  - [ ] Tasks
+  - [ ] Comments
+  - [ ] Labels
 
 ## Contributing
 TODO!
+
+## License
+Distributed under the MIT License.
